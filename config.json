@@ -25,18 +25,18 @@
     "prosConsSubtitle": "Nothing!!!!"
   },
   "media": {
-    "mainBearGif": "./src/assets/cute-bear.gif",
-    "musicBearGif": "./src/assets/music-bear.gif",
-    "comfortBearGif": "./src/assets/comfort-bear.gif",
-    "kissBearGif": "./src/assets/kiss-bears.gif",
-    "photoBearGif": "./src/assets/photo-bear.gif",
-    "loveYouBearGif": "./src/assets/love-you-bear.gif",
-    "childGif": "./src/assets/child.gif",
-    "roseBearGif": "./src/assets/rose-bear.gif",
-    "cookBearGif": "./src/assets/cook-bear.gif",
-    "kissSingleBearGif": "./src/assets/kiss-bear.gif",
-    "leftButton": "./src/assets/left-button.png",
-    "rightButton": "./src/assets/right-button.png",
+    "mainBearGif": "/src/assets/cute-bear.gif",
+    "musicBearGif": "/src/assets/music-bear.gif",
+    "comfortBearGif": "/src/assets/comfort-bear.gif",
+    "kissBearGif": "/src/assets/kiss-bears.gif",
+    "photoBearGif": "/src/assets/photo-bear.gif",
+    "loveYouBearGif": "/src/assets/love-you-bear.gif",
+    "childGif": "/src/assets/child.gif",
+    "roseBearGif": "/src/assets/rose-bear.gif",
+    "cookBearGif": "/src/assets/cook-bear.gif",
+    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
+    "leftButton": "/src/assets/left-button.png",
+    "rightButton": "/src/assets/right-button.png",
     "envelopeSeal": "❤️"
   },
   "gifts": {
@@ -147,5 +147,6 @@
   }
 
 }
+
 
 
