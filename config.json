@@ -10,7 +10,7 @@
     "fontFamily": "Arial, sans-serif"
   },
   "content": {
-    "title": "Will you be my Valentine Harini?",
+    "title": "Will you be my Valentine?",
     "subtitle": "Choose wisely. (The \"No\" button is... shy.)",
     "yesButtonText": "YES ❤️",
     "noButtonText": "NO 💔",
@@ -25,7 +25,7 @@
     "prosConsSubtitle": "Nothing!!!!"
   },
   "media": {
-    "mainBearGif": "/src/assets/cute-bear.gif",
+    "mainBearGif": img src="/src/assets/cute-bear.gif",
     "musicBearGif": "/src/assets/music-bear.gif",
     "comfortBearGif": "/src/assets/comfort-bear.gif",
     "kissBearGif": "/src/assets/kiss-bears.gif",
@@ -145,4 +145,5 @@
     "play": "Play",
     "pause": "Pause"
   }
+
 }
