@@ -25,7 +25,7 @@
     "prosConsSubtitle": "Nothing!!!!"
   },
   "media": {
-    "mainBearGif": "/src/assets/cute-bear.gif",
+    "mainBearGif": "./assets/cute-bear.gif",
     "musicBearGif": "/src/assets/music-bear.gif",
     "comfortBearGif": "/src/assets/comfort-bear.gif",
     "kissBearGif": "/src/assets/kiss-bears.gif",
@@ -147,6 +147,7 @@
   }
 
 }
+
 
 
 
